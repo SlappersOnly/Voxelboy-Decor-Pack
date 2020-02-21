@@ -1,0 +1,10 @@
+{
+  "code": "mods.VoxelboyDecorPack.sounds.PsxStartup",
+  "sounds": [
+    {
+      "file": "mods/Voxelboy Decor Pack/Sounds/PsxStartup",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

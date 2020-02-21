@@ -1,0 +1,10 @@
+{
+  "__inherits": "staxel/effect/piano.config",
+  "code": "mods.VoxelboyDecorPack.effects.GameCubeStartup",
+  "particles": [
+    "mods.VoxelboyDecorPack.particle.GameCubeStartup"
+  ],
+  "sounds": [
+    "mods.VoxelboyDecorPack.sounds.GameCubeStartup"
+  ]
+}

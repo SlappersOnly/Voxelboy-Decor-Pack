@@ -1,0 +1,10 @@
+{
+  "code": "mods.VoxelboyDecorPack.sounds.XboxStartup",
+  "sounds": [
+    {
+      "file": "mods/Voxelboy Decor Pack/Sounds/XboxStartup",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

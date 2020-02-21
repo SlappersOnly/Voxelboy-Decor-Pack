@@ -1,0 +1,783 @@
+{
+  "code": "mods.VoxelboyDecorPack.docks.GamingShelf",
+  "allowStacksForAllSites": true,
+  "sites": [
+     {
+      "siteName": "slot1back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.21,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot1front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.21,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot2back",
+	  "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.21,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot2front",
+	  "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.21,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot3back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.21,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot3front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.21,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot4back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.21,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot4front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.21,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot5back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.21,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot5front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.21,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot6back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.63,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot6front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.63,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot7back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.63,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot7front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.63,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot8back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.63,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot8front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.63,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot9back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.63,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot9front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.63,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot10back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 0.63,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot10front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 0.63,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "siteName": "slot11back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y":  1.07,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },	
+	{
+      "siteName": "slot11front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y":  1.07,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot12back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y":  1.07,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot12front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y":  1.07,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot13back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y":  1.07,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot13front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y":  1.07,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot14back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y":  1.07,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot14front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y":  1.07,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot15back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 1.08,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }, 
+    {
+      "siteName": "slot15front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 1.08,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },   
+	{
+      "siteName": "slot16back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 1.5,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "siteName": "slot16front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 1.5,
+        "z": 1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot17back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 1.5,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot17front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 1.5,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "siteName": "slot18back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 1.5,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot18front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 1.5,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "siteName": "slot19back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 1.5,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot19front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 1.5,
+        "z": -0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	{
+      "siteName": "slot20back",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": -0.1,
+        "y": 1.5,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "slot20front",
+      "compact": true,
+      "dimensionOverride": {
+        "x": 1.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "location": {
+        "x": 0.3,
+        "y": 1.5,
+        "z": -1.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+  ],
+  "validDockables": [
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

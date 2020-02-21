@@ -1,0 +1,42 @@
+{
+  "angularVelocity": 2.0,
+  "code": "mods.VoxelboyDecorPack.particle.consoleinteract",
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "positionSpread": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 2.0
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "emitVelocity": {
+    "x": 0.0,
+    "y": 1,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 3,
+    "y": 3,
+    "z": 3
+  },
+  "color": "ffffffff",
+  "colorSpread": {
+    "x": 0.9,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "particlesPerSecond": 20.0,
+  "liveDuration": 1,
+  "angularVelocity": 1.0,
+  "scale": 3.0,
+  "scaleSpread": 0.5,
+  "emitDuration": 6,
+  "emissive": 0.01
+}

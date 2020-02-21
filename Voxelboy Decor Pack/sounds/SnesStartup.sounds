@@ -1,0 +1,13 @@
+{
+  "code": "mods.VoxelboyDecorPack.sounds.SnesStartup",
+  "currency": {
+    "petalWorth": 100
+  },
+  "sounds": [
+    {
+      "file": "mods/Voxelboy Decor Pack/Sounds/SnesStartup",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

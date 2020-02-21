@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "bouncyness": 0.10000000149011612,
+  "categories": [
+	"green",
+    "voxelboy",
+    "computer",
+    "console",
+    "microsoft",
+    "xbox"
+  ],
+  "code": "mods.VoxelboyDecorPack.XboxConsole128",
+  "compound": {
+    "size": {
+      "x": 6,
+      "y": 2,
+      "z": 6
+    }
+  },
+  "emissiveColor": "00FFFFFF",
+  //"interactActionTrigger": "staxel.entityAction.PlayInteractEffectAction",
+  //"interactVerb": "controlHint.verb.Play",
+  //"interactEffect": "mods.VoxelboyDecorPack.effects.XboxStartup",
+  "light": 0.1,
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10.0,
+    "value": 200.0
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Voxelboy Decor Pack/models/XboxConsole128.qb",
+  "wallPushOut": true
+}

@@ -1,0 +1,51 @@
+{
+  "code": "mods.VoxelboyDecorPack.docks.NesCoffeeTable",
+  "allowStacksForAllSites": true,
+  "sites": [
+    {
+      "siteName": "Left",
+      "compact": true,
+      "location": {
+        "x": -0.6,
+        "y": 0.7,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "Right",
+      "compact": true,
+      "location": {
+        "x": 0.6,
+        "y": 0.7,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+	],
+  "validDockables": [
+    {
+      "category": "all"/*special case*/,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

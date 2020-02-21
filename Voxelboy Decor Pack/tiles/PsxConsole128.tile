@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "bouncyness": 1.0,
+  "categories": [
+    "voxelboy",
+    "computer",
+    "console",
+	"sony",
+    "playstation"
+  ],
+  "code": "mods.VoxelboyDecorPack.PsxConsole128",
+  "compound": {
+    "size": {
+      "x": 6,
+      "y": 1,
+      "z": 5
+    }
+  },
+  "emissiveColor": "00FFFFFF",
+  //"interactActionTrigger": "staxel.entityAction.PlayInteractEffectAction",
+  //"interactEffect": "mods.VoxelboyDecorPack.effects.PsxStartup",
+  //"interactVerb": "controlHint.verb.Play",
+  "light": 0.1,
+  "placeSoundGroup": "staxel.sounds.farmAnimals.Chicken.unhappy_1",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10.0,
+    "value": 200.0
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Voxelboy Decor Pack/models/PsxConsole128.qb",
+  "wallPushOut": true
+}

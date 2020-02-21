@@ -1,0 +1,36 @@
+{
+    "inHandRotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "__inherits": "staxel/tileObject/base.config",
+    "code": "mods.VoxelboyDecorPack.GameCubeSign",
+    "kind": "staxel.item.CraftItem",
+    "icon": "mods/Voxelboy Decor Pack/models/GameCubeSign.qb",
+    "usageOffset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "inHand": "mods/Voxelboy Decor Pack/models/InHandSign.qb",
+    "inHandScale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+    },
+    "categories": [
+        "voxelboy",
+        "sign",
+        "nintendo",
+        "gamecube"
+    ],
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 30
+    },
+    "searchable": true,
+    "iconScale": 0.16
+}

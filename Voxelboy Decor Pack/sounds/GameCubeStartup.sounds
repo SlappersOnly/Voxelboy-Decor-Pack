@@ -1,0 +1,10 @@
+{
+  "code": "mods.VoxelboyDecorPack.sounds.GameCubeStartup",
+  "sounds": [
+    {
+      "file": "mods/Voxelboy Decor Pack/Sounds/GameCubeStartup",
+      "volume": 1,
+      "fileType": "Ogg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "code": "mods.VoxelboyDecorPack.NesController128",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "compound": {"size": {
+        "x": 5,
+        "y": 1,
+        "z": 3
+    }},
+    "searchable": true,
+    "interactActionTrigger": "staxel.entityAction.BreakAndPickupAction",
+    "__inherits": "staxel/tileObject/base.config",
+    "light": 0.10000000149011612,
+    "wallPushOut": true,
+    "emissiveColor": "00FFFFFF",
+    "categories": [
+        "voxelboy",
+        "computer",
+        "console",
+        "nintendo",
+        "snes"
+    ],
+    "voxels": "mods/Voxelboy Decor Pack/models/NesController128.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 200
+    },
+    "bouncyness": 0.10000000149011612
+}

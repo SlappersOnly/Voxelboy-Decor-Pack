@@ -1,0 +1,33 @@
+{
+    "dockDefinition": "mods.VoxelboyDecorPack.docks.SpaceInvadersSofa",
+    "prefetchTileState": true,
+    "__inherits": "staxel/docks/TwoSeater_Thick.config",
+    "code": "mods.VoxelboyDecorPack.SpaceInvadersSofaPink",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "voxelboy",
+        "game",
+        "spaceinvaders",
+        "blue",
+        "furniture",
+        "set",
+        "seat",
+        "sit",
+        "sofa",
+        "couch"
+    ],
+    "compound": {"size": {
+        "x": 3,
+        "y": 2,
+        "z": 1
+    }},
+    "voxels": "mods/Voxelboy Decor Pack/models/SpaceInvadersSofaPink.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 200
+    },
+    "searchable": true,
+    "bouncyness": 0.10000000149011612
+}

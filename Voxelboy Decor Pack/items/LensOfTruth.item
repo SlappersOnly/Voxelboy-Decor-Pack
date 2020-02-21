@@ -1,0 +1,39 @@
+{
+    "code": "mods.VoxelboyDecorPack.LensOfTruth",
+    "inHandOffset": {
+        "x": 0.1,
+        "y": 0,
+        "z": 0.17
+    },
+    "kind": "staxel.item.InspectionTool",
+    "icon": "mods/Voxelboy Decor Pack/models/LensOfTruth.qb",
+    "usageOffset": {
+        "x": -0.126,
+        "y": -0.05,
+        "z": -0.16
+    },
+    "inHand": "mods/Voxelboy Decor Pack/models/LensOfTruth.qb",
+    "canBeGifted": false,
+    "searchable": true,
+    "inHandRotation": {
+        "x": 0,
+        "y": -0.6,
+        "z": -1.8
+    },
+    "interactVerb": "controlHint.verb.Inspect",
+    "useBoxCollider": true,
+    "categories": [
+        "voxelboy",
+        "tool",
+        "magnifying",
+        "glass",
+        "inspect"
+    ],
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 6,
+        "value": 10
+    },
+    "iconScale": 0.7
+}

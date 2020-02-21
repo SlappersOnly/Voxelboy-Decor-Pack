@@ -1,0 +1,31 @@
+{
+    "dockDefinition": "mods.VoxelboyDecorPack.docks.PacManTable",
+    "prefetchTileState": true,
+    "__inherits": "staxel/docks/LargeTable.config",
+    "code": "mods.VoxelboyDecorPack.PinkPacManTable",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "voxelboy",
+        "game",
+        "furniture",
+        "table",
+        "surface",
+        "dining",
+        "dinner",
+        "room",
+        "arcade"
+    ],
+    "compound": {"size": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+    }},
+    "voxels": "mods/Voxelboy Decor Pack/models/PinkPacManTable.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 200
+    },
+    "searchable": true
+}

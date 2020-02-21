@@ -1,0 +1,10 @@
+{
+  "__inherits": "staxel/effect/piano.config",
+  "code": "mods.VoxelboyDecorPack.effects.PsxStartup",
+  "particles": [
+    "mods.VoxelboyDecorPack.particle.consoleinteract"
+  ],
+  "sounds": [
+    "mods.VoxelboyDecorPack.sounds.PsxStartup"
+  ]
+}

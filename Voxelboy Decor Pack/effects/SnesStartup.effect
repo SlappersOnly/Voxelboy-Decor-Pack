@@ -1,0 +1,11 @@
+{
+  "__inherits": "staxel/effect/piano.config",
+  "code": "mods.VoxelboyDecorPack.effects.SnesStartup",
+  "emote": "staxel.emote.Wave",
+  "particles": [
+    "mods.VoxelboyDecorPack.particle.consoleinteract"
+  ],
+  "sounds": [
+    "mods.VoxelboyDecorPack.sounds.SnesStartup"
+  ]
+}

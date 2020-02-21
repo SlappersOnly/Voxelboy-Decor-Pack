@@ -1,0 +1,34 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "bouncyness": 0.10000000149011612,
+  "categories": [
+    "voxelboy",
+    "computer",
+    "console",
+	"nintendo",
+    "gamecube"
+  ],
+  "code": "mods.VoxelboyDecorPack.GameCubeConsole64",
+  "compound": {
+    "size": {
+      "x": 4,
+      "y": 2,
+      "z": 3
+    }
+  },
+  "emissiveColor": "00FFFFFF",
+  //"interactActionTrigger": "staxel.entityAction.PlayInteractEffectAction",
+  //"interactEffect": "mods.VoxelboyDecorPack.effects.GameCubeStartup",
+  //"interactVerb": "controlHint.verb.Play",
+  "light": 0.1,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10.0,
+    "value": 200.0
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Voxelboy Decor Pack/models/GameCubeConsole64.qb",
+  "wallPushOut": true
+}

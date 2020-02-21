@@ -1,0 +1,29 @@
+{
+    "dockDefinition": "staxel.docks.CoffeeTableTall",
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "mods.VoxelboyDecorPack.NesCoffeeTable",
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "voxelboy",
+        "furniture",
+        "table",
+        "surface",
+        "low",
+        "short",
+        "nintendo",
+        "nes"
+    ],
+    "compound": {"size": {
+        "x": 2,
+        "y": 3,
+        "z": 1
+    }},
+    "voxels": "mods/Voxelboy Decor Pack/models/NesCoffeeTable.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 10,
+        "value": 200
+    },
+    "searchable": true
+}

@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "bouncyness": 1.0,
+  "categories": [
+    "voxelboy",
+    "computer",
+    "console",
+	"Nintendo",
+    "3ds"
+  ],
+  "code": "mods.VoxelboyDecorPack.3dsConsole",
+  "compound": {
+    "size": {
+      "x": 6,
+      "y": 2,
+      "z": 6
+    }
+  },
+  "emissiveColor": "00FFFFFF",
+  "light": 0.1,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 10.0,
+    "value": 200.0
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Voxelboy Decor Pack/models/3dsConsole.qb",
+  "wallPushOut": true
+}
